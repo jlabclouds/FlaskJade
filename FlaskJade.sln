@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FlaskJade", "FlaskJade.pyproj", "{45B501F4-3356-41D9-96E3-B8471B71CDC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45B501F4-3356-41D9-96E3-B8471B71CDC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45B501F4-3356-41D9-96E3-B8471B71CDC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45B501F4-3356-41D9-96E3-B8471B71CDC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45B501F4-3356-41D9-96E3-B8471B71CDC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E74113C-0DCE-4A9C-A159-599FDE1F2670}
+	EndGlobalSection
+EndGlobal
